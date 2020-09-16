@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hello world 👋
 
-I'm a master degree student at ESGI in computer graphics.
+My name is __Florian Vazelle__, I'm a master degree student @ 🏫 [ESGI](https://www.esgi.fr/) in computer graphics. You can see me here [🎮 Itch.io](http://florianvazelle.itch.io/) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
 
-🔭 I’m currently working on a Path-Tracing in Vulkan with Denoising
-
+- 🔭 I’m currently working on a Path-Tracing in Vulkan with Denoising.
 
 <!--
 **florianvazelle/florianvazelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
