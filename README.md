@@ -3,7 +3,9 @@
 My name is __Florian Vazelle__, I'm a master degree student @ 🏫 [ESGI](https://www.esgi.fr/) in computer graphics.  
 You can see me on [🎮 Itch.io](http://florianvazelle.itch.io/) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
 
-- 🔭 I’m currently working on a Path-Tracing in Vulkan with Denoising.
+- 🔭 I’m currently working on a Path-Tracer in Vulkan with Denoising.
+
+![Profile views](https://gpvc.arturio.dev/florianvazelle)
 
 <!--
 **florianvazelle/florianvazelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
