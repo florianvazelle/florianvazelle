@@ -3,7 +3,10 @@
 My name is __Florian Vazelle__, I'm a master degree student @ [🏫 ESGI](https://www.esgi.fr/) in computer graphics.  
 You can see me on [🎮 Itch.io](http://florianvazelle.itch.io/) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
 
-- 🔭 I’m currently working on a Path-Tracer in Vulkan with Denoising.
+I'm currently learning _Vulkan_ and to understand it I'm working on :
+- 📚 [French Vulkan Tutorial](https://fyc-vulkan-equipe-7.gitbook.io/fyc-vulkan/), written with my friends, to explain what we learn.
+- 🔭 [VulkanStarter](https://github.com/florianvazelle/VulkanStarter/), to set up a simple template with build system (CMake), package manager (Conan) and CI (Github Actions).
+- 🏗️ [vk3DLoader](https://github.com/florianvazelle/VulkanStarter/), to extend VulkanStarter by viewing and loading 3D models.
 
 <!--
 **florianvazelle/florianvazelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
