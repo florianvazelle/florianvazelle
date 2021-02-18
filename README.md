@@ -3,10 +3,10 @@
 My name is __Florian Vazelle__, I'm a master degree student @ [🏫 ESGI](https://www.esgi.fr/) in computer graphics.  
 You can see me on [🎮 Itch.io](http://florianvazelle.itch.io/) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
 
-I'm currently learning _Vulkan_ and to understand it I'm working on :
-- 📚 [French Vulkan Tutorial](https://fyc-vulkan-equipe-7.gitbook.io/fyc-vulkan/), written with my friends, to explain what we learn.
+I'm currently learning __Vulkan__ and to understand it, I'm working on :
 - 🔭 [VulkanStarter](https://github.com/florianvazelle/VulkanStarter/), to set up a simple template with build system (CMake), package manager (Conan) and CI (Github Actions).
-- 🏗️ [vk3DLoader](https://github.com/florianvazelle/VulkanStarter/), to extend VulkanStarter by viewing and loading 3D models.
+- 🏗️ [vk3DLoader](https://github.com/florianvazelle/vk3DLoader/), to extend VulkanStarter by visualizing and loading 3D models.
+- 📚 [French Vulkan Tutorial](https://fyc-vulkan-equipe-7.gitbook.io/fyc-vulkan/), written with my friends, to explain what we learn.
 
 <!--
 **florianvazelle/florianvazelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
