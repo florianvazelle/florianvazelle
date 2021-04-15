@@ -1,7 +1,7 @@
 <img src="https://img.itch.zone/aW1nLzIxMTYwMTMucG5n/original/CEpx2n.png">
 
 My name is __Florian Vazelle__, I'm a master degree student @ [🏫 ESGI](https://www.esgi.fr/) in computer graphics.  
-You can see me on [🎮 Itch.io](http://florianvazelle.itch.io/) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
+You can see me on [🎮 Itch.io](http://florianvazelle.itch.io/), [🧠 StackOverflow](https://stackoverflow.com/users/9741124/florianvazelle?tab=profile) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
 
 I'm currently learning __Vulkan__ and to understand it, I'm working on :
 - 🔭 [VulkanStarter](https://github.com/florianvazelle/VulkanStarter/), to set up a simple template with build system (CMake), package manager (Conan) and CI (Github Actions).
