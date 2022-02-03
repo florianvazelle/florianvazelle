@@ -10,7 +10,7 @@ I learned __Vulkan__ and to understand it, I worked on :
 
 I'm currently learning __Rust__ and to understand it, I'm work on :
 - 🌠 [A Blender Addon](https://github.com/florianvazelle/refactored-bone-generator), with a rust backend, to compute operations quickly.
-- ⚙️ [UNO R3 Crate](https://github.com/florianvazelle/uno-r3), to discover embedded programming.
+- ⚙️ [UNO R3](https://github.com/florianvazelle/uno-r3), to discover embedded programming.
 
 You can see me on [🎮 Itch.io](http://florianvazelle.itch.io/), [🧠 StackOverflow](https://stackoverflow.com/users/9741124/florianvazelle?tab=profile) and [👔 LinkedIn](https://linkedin.com/in/florianvazelle).
 
